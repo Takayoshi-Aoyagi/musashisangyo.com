@@ -1,0 +1,20 @@
+{
+  "name": "artista-blue",
+  "homepage": "https://github.com/Takayoshi-Aoyagi/artista-blue",
+  "authors": [
+    "Takayoshi Aoyagi"
+  ],
+  "description": "http://www.artista.blue",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
